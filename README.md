@@ -1,7 +1,7 @@
 # read.me
 JVLoe
 <h1 align="center">Hi 👋, I'm Johanna</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer having trained at iO Academy Full Stack Track Bootcamp!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
